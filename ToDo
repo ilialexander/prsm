@@ -1,3 +1,4 @@
 Start testing parallel processes in matlab
 process data in two different modules
+use wait statements to hold for some time and kill the process from the other function
 check if modules still hold the data
