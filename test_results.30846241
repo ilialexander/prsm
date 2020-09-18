@@ -1,0 +1,23 @@
+Thu Sep 17 23:02:36 EDT 2020
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2019 The MathWorks, Inc.
+              R2019b Update 2 (9.7.0.1247435) 64-bit (glnxa64)
+                              November 7, 2019
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+Welcome to ParPool Testing
+
+Starting parallel pool (parpool) using the 'local' profile ...
+Connected to the parallel pool (number of workers: 2).
+
+5 is the winner!!!!!
+Parallel pool using the 'local' profile is shutting down.
+
+For parallel processing confirmation the winner should be #4
+
+Thu Sep 17 23:03:17 EDT 2020
